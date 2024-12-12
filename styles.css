@@ -3,9 +3,9 @@ html, body {
   }
 
 body {
-    background-image: url("./images/ai-generated-9159915_1920.png");
+    background-image: url("./images/background-desktop.png");
 }
-
+  
 .container {
     display: flex;
     flex-direction: column;
@@ -70,4 +70,3 @@ body {
         opacity: 0.3;
       }
   }
-
