@@ -16,17 +16,21 @@ body {
     min-height: 100vh;
 }
 
-h1 {
-    display: none;
-    font-family: "Rubik Puddles", serif;
-    font-size: 3em;
+.site-header__main-header {
+    font-family: "Rubik Moonrocks", sans-serif;
+    font-size: 4em;
     font-weight: 400;
-    color: #fff;
+    color: #f5dd05;
+  }
+  
+.hidden {
+    display: none;
 }
 
 .site-header img {
     display: block;
     width: 300px;
+    cursor: pointer;
     -webkit-animation: pulsing 5s infinite;
     animation: pulsing 5s infinite;
 }
