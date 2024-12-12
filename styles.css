@@ -1,3 +1,32 @@
+html, body {
+    height: 100%;
+  }
+
 body {
     background-image: url("./images/ai-generated-9159915_1920.png");
 }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+}
+
+h1 {
+    display: none;
+    font-family: "Rubik Puddles", serif;
+    font-size: 3em;
+    font-weight: 400;
+    color: #fff;
+}
+
+.site-header img {
+    display: block;
+    width: 150px;
+    margin: auto;
+}
+
