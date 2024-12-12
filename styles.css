@@ -18,7 +18,7 @@ body {
 
 .site-header__main-header {
     font-family: "Rubik Moonrocks", sans-serif;
-    font-size: 4em;
+    font-size: 5em;
     font-weight: 400;
     color: #f5dd05;
   }
@@ -29,7 +29,7 @@ body {
 
 .site-header img {
     display: block;
-    width: 300px;
+    width: 400px;
     cursor: pointer;
     -webkit-animation: pulsing 5s infinite;
     animation: pulsing 5s infinite;
